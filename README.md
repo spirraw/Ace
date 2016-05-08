@@ -1,4 +1,4 @@
-# Ace
+# Ace's High
 ## Windows (32bit)
 - Download AceWin32.zip
 - Extract the zip-file somewhere
